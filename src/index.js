@@ -2,13 +2,13 @@ import Game from './game.js'
 
 let p1, p2
 while (!p1) {
-  p1 = window.prompt('Who is player 1?')
+  p1 = window.prompt('输入玩家1的名字：')
 }
 
 while (!p2 && p1 !== p2) {
   p2 = window.prompt(p1 === p2
-    ? `Please enter a different name than ${p1}.`
-    : 'Who is player 2?')
+    ? `请使用不同于${p1}的名字：`
+    : '输入玩家2的名字?')
 }
 
 window.onload = () => {
