@@ -1,4 +1,4 @@
-# GitHub Workflpw
+# GitHub Workflow
 - SDLC
   - GitHub likes to think of the SDLC in 3 phases
     - Build
