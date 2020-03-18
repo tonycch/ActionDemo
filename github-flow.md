@@ -4,7 +4,6 @@
     - Build
     - Collaborate
     - Deploy
-
 - GitHub Flow
   - These phases match to the GitHub Flow
     - Branch
