@@ -1,6 +1,6 @@
 # GitHub Workflow
 - Reference
-  - [GitHub Flow and Workflow](https://github.app.box.com/file/312432912614)
+  - [GitHub Flow and Workflow Integration](https://github.app.box.com/file/312432912614)
 - SDLC
   - GitHub likes to think of the SDLC in 3 phases
     - Build
