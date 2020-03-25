@@ -6,3 +6,5 @@
   - review Checks tab
   - accept `pull request`
 - review Actions tab
+
+![cmb-workflow-poc](https://user-images.githubusercontent.com/472448/73826394-a6153e80-4838-11ea-96ad-494deef66afe.png)
