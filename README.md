@@ -4,6 +4,14 @@
 - :eyes: show the original [production build on AWS](https://inr29uylt3.execute-api.us-west-2.amazonaws.com/Prod/)
 - :keyboard: create`demo` branch and make changes to [index.js](https://github.com/tonycch/ActionDemo/edit/master/src/index.js)
 - `commit`, `push`, create `pull request`
+```
+  $ git pull
+  $ git checkout -b rename-player
+  $ vi src/index.js
+  $ git add src/index.js
+  $ git commit -m "rename player"
+  $ git push origian rename-player
+```
 - in Code Review
   - review Checks tab
   - accept `pull request`
